@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+:root{
+    --main-color: #8B0000;    ;
+    --second-color: #212f3d;
+}
+
+section{
+    padding: 100px;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading h2{
+    color: var(--second-color);
+    border-bottom: 3px solid var(--second-color);
+    font-size: 1.8rem;
+}
+
+.heading p{
+    color: var(--second-color);
+    margin-top: 0.5rem;
+}

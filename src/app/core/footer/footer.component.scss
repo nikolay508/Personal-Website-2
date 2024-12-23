@@ -1,0 +1,98 @@
+.heading h2{
+    color: white;
+}
+
+.heading p{
+    color: white;
+    margin-top: 0.5rem;
+}
+
+.color p{
+    color: #fff;
+}
+
+#contact{
+    background: var(--second-color);
+}
+
+.contact-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact-form{
+    width: 360px;
+    margin-top: 4rem;
+}
+
+.contact-form form input, .contact-form form textarea{
+    width: 100%;
+    font-size: 13px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    outline: none;
+    margin-bottom: 12px;
+}
+
+.contact-form form input::placeholder,
+.contact-form form textarea::placeholder{
+    color: black;
+    letter-spacing: 1px;
+}
+
+.contact-form form textarea{
+    resize: none;
+    height: 200px;
+}
+
+.contact-button{
+    max-width: 100px;
+    margin-left: 120px;
+    font-weight: 600;
+    background: var(--main-color);
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.contact-button:hover{
+    background: rgb(117, 18, 18);
+    box-shadow: 0 10px 34px rgba(0, 0, 0, 0.14);
+}
+
+.copyright{
+    padding: 20px;
+    background: var(--second-color);
+    color: #fff;
+    text-align: center;
+}
+
+.app{
+    max-width: 360px;
+}
+
+.app h1{
+    color: #fff;
+    font-size: 1.6rem;
+    margin: 5px 0 30px;
+}
+
+.app i img{
+    margin-right: 24px;
+    font-size: 24px;
+    width: 40px;
+}
+
+.app i img:hover{
+    opacity: 80%;
+}
+
+.email-a{
+    color: var(--main-color);
+}
+.email-a:hover{
+    text-decoration: underline;
+
+}

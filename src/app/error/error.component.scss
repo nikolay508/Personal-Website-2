@@ -1,0 +1,49 @@
+.mainbox {
+    margin: auto;
+    height: 550px;
+    width: 550px;
+    position: relative;
+  }
+  
+    .err {
+      color: rgb(139, 0, 0);
+      font-size: 11rem;
+      position:absolute;
+      left: 20%;
+      top: 20%;
+    }
+  
+  .far {
+    position: absolute;
+    font-size: 10.5rem;
+    left: 45%;
+    top: 21%;
+    color: rgb(139, 0, 0);
+  }
+  
+   .err2 {
+      color: rgb(139, 0, 0);
+      font-size: 11rem;
+      position:absolute;
+      left: 68%;
+      top: 20%;
+    }
+  
+  .msg {
+      text-align: center;
+      font-size: 1.6rem;
+      position:absolute;
+      left: 16%;
+      top: 65%;
+      width: 75%;
+    }
+  
+  a {
+    text-decoration: none;
+    color: rgb(139, 0, 0);
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
