@@ -18,7 +18,7 @@
 }
 
 .services-content .box {
-    position: relative;
+  position: relative;
   padding: 40px 20px;
   background: var(--second-color);
   color: #fff;
@@ -52,7 +52,6 @@
 }
 
 .services-content a {
-  position: absolute;
   bottom: 1.75rem;
   left: 115px;
   padding: 11px 20px;
@@ -66,4 +65,21 @@
 .services-content a:hover {
   background: var(--second-color);
   box-shadow: 0 10px 34px rgba(0, 0, 0, 0.14);
+}
+
+@media (max-width: 400px) {
+  services-content a {
+    padding: 8px 10px;
+    font-size: 0.7rem;
+    letter-spacing: 0.5px;
+  }
+
+  .box p {
+    margin-bottom: 2rem;
+  }
+
+  .services-content .box {
+    padding: 35px 20px;
+    min-width: 380px;
+  }
 }
