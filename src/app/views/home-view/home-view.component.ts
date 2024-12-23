@@ -12,6 +12,6 @@ export class HomeViewComponent {
   scrollDown(event: Event){
     event.preventDefault();
 
-    window.scrollBy(0, 840)
+    window.scrollBy(0, 750)
   }
 }
