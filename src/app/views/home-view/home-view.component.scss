@@ -24,7 +24,7 @@
 }
 
 .home-img {
-  margin-left: 100px;
+  margin-left: 250px;
   height: 500px;
 }
 
@@ -51,7 +51,7 @@
 
 .social {
   position: absolute;
-  bottom: 70px;
+  bottom: 55px;
 }
 
 .social i img {
@@ -64,7 +64,7 @@
   opacity: 80%;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .home-text h1 {
     height: 450px;
     width: 350px;
