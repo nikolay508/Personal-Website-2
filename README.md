@@ -15,6 +15,7 @@ CSS3
 ## 🛠️ Improvements from Version 1
 Transitioned from Vanilla JavaScript to Angular for better functionality and scalability.<br>
 Enhanced design and layout for a polished, professional look.<br>
-Fully developed features to ensure a complete user experience.
+Fully developed features to ensure a complete user experience. <hr>
 
 ### Here you can briefly see how it works: <br>
+<img width="1468" alt="Screenshot 2024-12-29 at 12 45 44" src="https://github.com/user-attachments/assets/675ef3a1-300e-4b69-91ca-5d80bb1bd1d9" />
