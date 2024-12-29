@@ -7,13 +7,14 @@ Professional Design: Highlights my work, experience, and education in a clean, o
 Contact Section: Makes it easy for users to reach out directly through the site.<br>
 Modern Technology: Built with Angular for a dynamic and scalable user experience.
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 Angular<br>
 HTML5<br>
 CSS3
 
-🛠️ Improvements from Version 1
+## 🛠️ Improvements from Version 1
 Transitioned from Vanilla JavaScript to Angular for better functionality and scalability.<br>
 Enhanced design and layout for a polished, professional look.<br>
 Fully developed features to ensure a complete user experience.
 
+### Here you can briefly see how it works: <br>
