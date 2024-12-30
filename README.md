@@ -15,7 +15,25 @@ CSS3
 ## 🛠️ Improvements from Version 1
 Transitioned from Vanilla JavaScript to Angular for better functionality and scalability.<br>
 Enhanced design and layout for a polished, professional look.<br>
-Fully developed features to ensure a complete user experience. <hr>
+Fully developed features to ensure a complete user experience. 
+
+### Installation and start the client side:
+
+1. Install dependencies for the client (SPA):
+
+    Open Terminal, navigate and install:
+    - cd "the project itself"
+    - npm i (install)
+
+3. Start the Application:
+    - npx(if needed) ng serve
+
+If everything is normal you will see the following messages:
+
+    Application bundle generation complete.
+    Local: http://localhost:4200/
+
+<hr>
 
 ### Here you can briefly see how it is: <br>
 <img width="1468" alt="Screenshot 2024-12-29 at 12 45 44" src="https://github.com/user-attachments/assets/675ef3a1-300e-4b69-91ca-5d80bb1bd1d9" />
