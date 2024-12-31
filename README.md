@@ -17,7 +17,7 @@ Transitioned from Vanilla JavaScript to Angular for better functionality and sca
 Enhanced design and layout for a polished, professional look.<br>
 Fully developed features to ensure a complete user experience. 
 
-## 💡 Installation and start the client side:
+## 💡 Installation and start the app:
 
 1. Install dependencies for the client (SPA):
 
