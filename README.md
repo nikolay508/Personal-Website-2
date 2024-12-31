@@ -22,7 +22,7 @@ Fully developed features to ensure a complete user experience.
 1. Install dependencies for the client (SPA):
 
     Open Terminal, navigate and install:
-    - cd "the project itself"
+    - cd Personal-Website-2
     - npm i (install)
 
 2. Start the Application:
